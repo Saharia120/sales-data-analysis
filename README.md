@@ -83,6 +83,7 @@ Build a professional portfolio project for data-related roles
 
 Saharia Sarder
 📊 Aspiring Data Analyst
-🔗 GitHub: https://github.com/your-username
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 GitHub:  https://github.com/Saharia120
+
+🔗 LinkedIn: https://www.linkedin.com/in/saharia-sarder-7b380532b/
