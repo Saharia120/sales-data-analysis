@@ -54,7 +54,7 @@ All charts and outputs can be viewed directly by opening the Jupyter Notebook.
 
 Clone the repository:
 
-git clone https://github.com/your-username/sales-data-analysis.git
+https://github.com/Saharia120/sales-data-analysis.git 
 
 
 Navigate to the project directory:
