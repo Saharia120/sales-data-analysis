@@ -86,4 +86,3 @@ Saharia Sarder
 
 🔗 GitHub:  https://github.com/Saharia120
 
-🔗 LinkedIn: https://www.linkedin.com/in/saharia-sarder-7b380532b/
